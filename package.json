@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafizrahman8807/ecommerce-codevo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mustafizrahman8807/ecommerce-codevo/issues"
+  },
+  "homepage": "https://github.com/mustafizrahman8807/ecommerce-codevo#readme"
 }

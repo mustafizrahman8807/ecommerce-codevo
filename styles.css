@@ -85,3 +85,32 @@ nav.fix-nav {
   z-index: 999;
 }
 
+.nav .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.wrapper .logo a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.wrapper .nav-list {
+  display: inline-flex;
+}
+
+.nav-list li i {
+  color: var(--grey2);
+}
+
+.nav-list a {
+  color: var(--black);
+  font-size: 1.5rem;
+  padding: .9rem 1.5rem;
+  border-radius: .5rem;
+}
+
